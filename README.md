@@ -14,4 +14,4 @@ To use this workaround, follow these steps:
 
 - root access
 - `ip` command-line tool
-- `mtpd` command-line tool"?
+- `mtpd` command-line tool

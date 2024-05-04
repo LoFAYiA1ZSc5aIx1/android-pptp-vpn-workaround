@@ -6,7 +6,7 @@ This script provides a workaround for using PPTP VPN servers on newer versions o
 
 To use this workaround, follow these steps:
 
-1. Replace the `username`, `password`, and `domain` variables in both scripts with your own credentials.
+1. Replace the `username`, `password`, and `domain` variables in both scripts with your own credentials and server domain.
 2. Run `connect.sh` as root to establish a connection to the VPN server.
 3. Once connected, run `route.sh` as root to set up routing rules for VPN traffic.
 
